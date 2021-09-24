@@ -35,7 +35,6 @@ from time import perf_counter
 import subprocess
 import ffmpeg
 import matplotlib.pyplot as plt
-%matplotlib inline
 
 class inference():
   def __init__(self):
